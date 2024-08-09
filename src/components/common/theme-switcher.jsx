@@ -8,7 +8,7 @@ import {
 import { Moon, Sun } from "lucide-react"
 import { useTheme } from "../provider/theme-provider"
 
-export function ModeToggle() {
+export function DarkModeSwitcher() {
   const { setTheme } = useTheme()
 
   return (
