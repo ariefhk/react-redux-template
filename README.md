@@ -2,7 +2,7 @@
 
 Built with the React.js, Redux, RTK Query, React Router Dom, Shadcn UI
 
-![Project Image](https://github.com/ariefhk/react-redux-template/tree/main/public/images/thumbnail.png)
+![Project Image](thumbnail.png)
 
 ## Features
 
@@ -11,6 +11,7 @@ Built with the React.js, Redux, RTK Query, React Router Dom, Shadcn UI
 - Data Fething with RTK Query
 - React Router Dom
 - Shadcn UI
+- Handling Error Pages & Structured Pattern
 
 ## Getting started
 
